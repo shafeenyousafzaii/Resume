@@ -1,0 +1,76 @@
+/* Enhanced and dynamic styling */
+
+/* General Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  header p {
+    margin-top: 5px;
+    font-size: 1.2em;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+  }
+  
+  .section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+    color: #bbb;
+  }
+  
