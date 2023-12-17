@@ -5,7 +5,6 @@
 <!--   <title>Your Name - Curriculum Vitae</title> -->
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 </head>
 <body>
   <header>
@@ -14,12 +13,6 @@
   </header>
 
   <main>
-    <!-- <section class="section">
-      <h2>About Me</h2>
-      <p>I am student at FAST NUCES currently enrolled in bachelors of artifical intelligence.
-      </p>
-    </section> -->
-
     <section class="section">
       <h2>Education</h2>
       <ul>
@@ -28,7 +21,6 @@
         <!-- Add more education details -->
       </ul>
     </section>
-
     <section class="section">
       <h2>Projects</h2>
       <ul>
@@ -38,7 +30,6 @@
         <!-- Add more experience details -->
       </ul>
     </section>
-
     <section class="section">
       <h2>Courses</h2>
       <ul>
@@ -49,9 +40,6 @@
         <!-- Add more experience details -->
       </ul>
     </section>
-
- 
-
     <section class="section">
       <h2>Skills</h2>
       <ul>
@@ -65,14 +53,11 @@
         <li>English : Fluent</li>
         <li>Urdu    : Fluent </li>
         <li>Pashto  : Fluent</li>
-        
         <!-- Add more experience details -->  
       </ul>
     </section>
     <!-- Add more sections for skills, projects, etc. -->
-
   </main>
-
   <footer>
     <p>Contact:  <a href="mailto:shafeenyousafzai@gmail.com"> <i class="far fa-envelope"></i> shafeenyousafzai@gmail.com </a>| GitHub: <a href="https://github.com/shafeenyousafzaii"><i class="fab fa-github"></i> shafeenyousafzaii</a></p>
   </footer>
